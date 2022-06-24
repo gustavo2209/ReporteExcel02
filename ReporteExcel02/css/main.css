@@ -1,0 +1,16 @@
+.caja{
+    height:100px;
+    width:100px;
+    float:left;
+}
+
+a.parainfo:active, a.parainfo:link, a.parainfo:visited{
+    text-decoration:none;
+    color:#215982;
+}
+
+a.parainfo:hover{
+    text-decoration:underline;
+    color:#3169b2;
+    font-weight:bold;
+}
